@@ -11,9 +11,6 @@
   <a href="http://qiita.com/NekoKaruni">
     <img height="20" src="https://qiita-badge.apiapi.app/s/NekoKaruni/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/NekoKaruni">
-    <img height="20" src="https://badgen.org/img/zenn/NekoKaruni/articles?style=plastic" />
-  </a>
 </p>
 
 
