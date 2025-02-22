@@ -1,5 +1,3 @@
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoKaruni&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left">
   <a href="https://github.com/NekoKaruni">
     <img height="20" src="https://komarev.com/ghpvc/?username="NekoKaruni />
